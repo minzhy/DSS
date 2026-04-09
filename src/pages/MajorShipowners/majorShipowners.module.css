@@ -1,0 +1,62 @@
+.page {
+  padding: 20px 24px 24px;
+}
+
+.headerRow {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0;
+  color: #262626;
+}
+
+.filters {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.panelCard :global(.ant-card-head) {
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.panelCard :global(.ant-card-head-title) {
+  font-weight: 600;
+}
+
+.toneBarPink {
+  border-left: 4px solid #ff85c0;
+}
+
+.toneBarBlue {
+  border-left: 4px solid #69b1ff;
+}
+
+.toneBarGold {
+  border-left: 4px solid #ffc53d;
+}
+
+.toneBarCyan {
+  border-left: 4px solid #5cdbd3;
+}
+
+.toneBarBrown {
+  border-left: 4px solid #d3ad7f;
+}
+
+.toneBarTeal {
+  border-left: 4px solid #36cfc9;
+}
+
+.chartBox {
+  width: 100%;
+  min-height: 240px;
+}
+
