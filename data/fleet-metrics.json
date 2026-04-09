@@ -1,0 +1,1261 @@
+{
+  "generatedAt": "2026-04-09T09:21:14.246Z",
+  "files": [
+    {
+      "file": "capesize.xlsx",
+      "sheetName": "SIN",
+      "rowCount": 51,
+      "missingColumns": [],
+      "data": [
+        {
+          "Group Company": "China COSCO Shipping",
+          "Fleet No": 91,
+          "OB No": 46,
+          "Avg Size": 238431
+        },
+        {
+          "Group Company": "CMB",
+          "Fleet No": 78,
+          "OB No": 10,
+          "Avg Size": 195646
+        },
+        {
+          "Group Company": "Winning Intl",
+          "Fleet No": 59,
+          "OB No": 16,
+          "Avg Size": 221420
+        },
+        {
+          "Group Company": "NYK Line",
+          "Fleet No": 63,
+          "OB No": "",
+          "Avg Size": 216977
+        },
+        {
+          "Group Company": "Berge Bulk",
+          "Fleet No": 59,
+          "OB No": 2,
+          "Avg Size": 219107
+        },
+        {
+          "Group Company": "Angelicoussis Group",
+          "Fleet No": 44,
+          "OB No": 4,
+          "Avg Size": 186154
+        },
+        {
+          "Group Company": "Eastern Pacific Shpg",
+          "Fleet No": 26,
+          "OB No": 21,
+          "Avg Size": 205448
+        },
+        {
+          "Group Company": "Pan Ocean",
+          "Fleet No": 38,
+          "OB No": 4,
+          "Avg Size": 247297
+        },
+        {
+          "Group Company": "China Merchants",
+          "Fleet No": 29,
+          "OB No": 12,
+          "Avg Size": 263487
+        },
+        {
+          "Group Company": "Mitsui OSK Lines",
+          "Fleet No": 31,
+          "OB No": 9,
+          "Avg Size": 215132
+        },
+        {
+          "Group Company": "K-Line",
+          "Fleet No": 35,
+          "OB No": 1,
+          "Avg Size": 199102
+        },
+        {
+          "Group Company": "H-Line Shipping",
+          "Fleet No": 36,
+          "OB No": "",
+          "Avg Size": 208389
+        },
+        {
+          "Group Company": "Oldendorff Carriers",
+          "Fleet No": 33,
+          "OB No": "",
+          "Avg Size": 154201
+        },
+        {
+          "Group Company": "Star Bulk Carriers",
+          "Fleet No": 33,
+          "OB No": "",
+          "Avg Size": 191960
+        },
+        {
+          "Group Company": "Shandong Marine",
+          "Fleet No": 21,
+          "OB No": 10,
+          "Avg Size": 241477
+        },
+        {
+          "Group Company": "ICBC",
+          "Fleet No": 31,
+          "OB No": "",
+          "Avg Size": 336556
+        },
+        {
+          "Group Company": "Navios Holdings",
+          "Fleet No": 28,
+          "OB No": 2,
+          "Avg Size": 178958
+        },
+        {
+          "Group Company": "Cardiff Marine",
+          "Fleet No": 26,
+          "OB No": 4,
+          "Avg Size": 191758
+        },
+        {
+          "Group Company": "Far Eastern Group",
+          "Fleet No": 23,
+          "OB No": 4,
+          "Avg Size": 202752
+        },
+        {
+          "Group Company": "Polaris Shipping",
+          "Fleet No": 25,
+          "OB No": "",
+          "Avg Size": 275674
+        },
+        {
+          "Group Company": "Zodiac Maritime",
+          "Fleet No": 23,
+          "OB No": "",
+          "Avg Size": 188528
+        },
+        {
+          "Group Company": "Seno Kisen",
+          "Fleet No": 23,
+          "OB No": "",
+          "Avg Size": 186011
+        },
+        {
+          "Group Company": "Seanergy Maritime",
+          "Fleet No": 18,
+          "OB No": 4,
+          "Avg Size": 183136
+        },
+        {
+          "Group Company": "Imabari SB",
+          "Fleet No": 21,
+          "OB No": "",
+          "Avg Size": 186745
+        },
+        {
+          "Group Company": "Golden Union",
+          "Fleet No": 21,
+          "OB No": "",
+          "Avg Size": 171924
+        },
+        {
+          "Group Company": "China Dev Bank (CDB)",
+          "Fleet No": 20,
+          "OB No": "",
+          "Avg Size": 209227
+        },
+        {
+          "Group Company": "SM Group",
+          "Fleet No": 19,
+          "OB No": "",
+          "Avg Size": 199791
+        },
+        {
+          "Group Company": "Foremost Maritime",
+          "Fleet No": 17,
+          "OB No": 2,
+          "Avg Size": 190933
+        },
+        {
+          "Group Company": "Doun Kisen",
+          "Fleet No": 17,
+          "OB No": 2,
+          "Avg Size": 198049
+        },
+        {
+          "Group Company": "Nissen Kaiun",
+          "Fleet No": 19,
+          "OB No": "",
+          "Avg Size": 184519
+        },
+        {
+          "Group Company": "Genco Shpg & Trading",
+          "Fleet No": 19,
+          "OB No": "",
+          "Avg Size": 182646
+        },
+        {
+          "Group Company": "Alpha Tankers",
+          "Fleet No": 19,
+          "OB No": "",
+          "Avg Size": 182139
+        },
+        {
+          "Group Company": "Chinese Mar. Trans.",
+          "Fleet No": 12,
+          "OB No": 6,
+          "Avg Size": 203563
+        },
+        {
+          "Group Company": "China Steel Express",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 208500
+        },
+        {
+          "Group Company": "Danaos Corp",
+          "Fleet No": 11,
+          "OB No": 4,
+          "Avg Size": 185811
+        },
+        {
+          "Group Company": "Hayfin Capital",
+          "Fleet No": 11,
+          "OB No": 4,
+          "Avg Size": 173647
+        },
+        {
+          "Group Company": "Marmaras Navigation",
+          "Fleet No": 14,
+          "OB No": "",
+          "Avg Size": 176005
+        },
+        {
+          "Group Company": "Chartworld Shipping",
+          "Fleet No": 14,
+          "OB No": "",
+          "Avg Size": 161615
+        },
+        {
+          "Group Company": "Mizuho Sangyo",
+          "Fleet No": 14,
+          "OB No": "",
+          "Avg Size": 208431
+        },
+        {
+          "Group Company": "Ocean Longevity",
+          "Fleet No": 14,
+          "OB No": "",
+          "Avg Size": 203495
+        },
+        {
+          "Group Company": "General Ore Corp.",
+          "Fleet No": 8,
+          "OB No": 6,
+          "Avg Size": 303673
+        },
+        {
+          "Group Company": "CITIC Group",
+          "Fleet No": 14,
+          "OB No": "",
+          "Avg Size": 129129
+        },
+        {
+          "Group Company": "Jiangsu Huaxi Group",
+          "Fleet No": 14,
+          "OB No": "",
+          "Avg Size": 186207
+        },
+        {
+          "Group Company": "ArcelorMittal",
+          "Fleet No": 13,
+          "OB No": "",
+          "Avg Size": 133390
+        },
+        {
+          "Group Company": "UC Shipping Pte Ltd",
+          "Fleet No": 13,
+          "OB No": "",
+          "Avg Size": 189841
+        },
+        {
+          "Group Company": "Himalaya Shipping",
+          "Fleet No": 12,
+          "OB No": "",
+          "Avg Size": 208479
+        },
+        {
+          "Group Company": "BoCom",
+          "Fleet No": 12,
+          "OB No": "",
+          "Avg Size": 350504
+        },
+        {
+          "Group Company": "CSSC",
+          "Fleet No": 12,
+          "OB No": "",
+          "Avg Size": 154926
+        },
+        {
+          "Group Company": "Jiangsu Shagang",
+          "Fleet No": 12,
+          "OB No": "",
+          "Avg Size": 200804
+        },
+        {
+          "Group Company": "HOSCO",
+          "Fleet No": 12,
+          "OB No": "",
+          "Avg Size": 183669
+        },
+        {
+          "Group Company": null,
+          "Fleet No": null,
+          "OB No": null,
+          "Avg Size": null
+        }
+      ]
+    },
+    {
+      "file": "handymax.xlsx",
+      "sheetName": "SIN",
+      "rowCount": 51,
+      "missingColumns": [],
+      "data": [
+        {
+          "Group Company": "China COSCO Shipping",
+          "Fleet No": 139,
+          "OB No": 7,
+          "Avg Size": 56682
+        },
+        {
+          "Group Company": "China Dev Bank (CDB)",
+          "Fleet No": 59,
+          "OB No": "",
+          "Avg Size": 63240
+        },
+        {
+          "Group Company": "NYK Line",
+          "Fleet No": 59,
+          "OB No": "",
+          "Avg Size": 53375
+        },
+        {
+          "Group Company": "Mitsui OSK Lines",
+          "Fleet No": 59,
+          "OB No": "",
+          "Avg Size": 54325
+        },
+        {
+          "Group Company": "Star Bulk Carriers",
+          "Fleet No": 58,
+          "OB No": "",
+          "Avg Size": 61801
+        },
+        {
+          "Group Company": "Pacific Basin Shpg",
+          "Fleet No": 49,
+          "OB No": 2,
+          "Avg Size": 59136
+        },
+        {
+          "Group Company": "CHN Energy",
+          "Fleet No": 49,
+          "OB No": "",
+          "Avg Size": 50775
+        },
+        {
+          "Group Company": "Highton Development",
+          "Fleet No": 46,
+          "OB No": "",
+          "Avg Size": 55424
+        },
+        {
+          "Group Company": "China Merchants",
+          "Fleet No": 44,
+          "OB No": "",
+          "Avg Size": 58578
+        },
+        {
+          "Group Company": "Nomikos Transworld",
+          "Fleet No": 34,
+          "OB No": "",
+          "Avg Size": 57767
+        },
+        {
+          "Group Company": "Densay Group",
+          "Fleet No": 28,
+          "OB No": 4,
+          "Avg Size": 61449
+        },
+        {
+          "Group Company": "Jiangsu Port Grp",
+          "Fleet No": 26,
+          "OB No": 6,
+          "Avg Size": 61036
+        },
+        {
+          "Group Company": "Nissen Kaiun",
+          "Fleet No": 31,
+          "OB No": "",
+          "Avg Size": 64476
+        },
+        {
+          "Group Company": "Wisdom Marine Group",
+          "Fleet No": 29,
+          "OB No": "",
+          "Avg Size": 60986
+        },
+        {
+          "Group Company": "Helikon Shpg. Ent.",
+          "Fleet No": 19,
+          "OB No": 10,
+          "Avg Size": 62996
+        },
+        {
+          "Group Company": "Imabari SB",
+          "Fleet No": 28,
+          "OB No": 1,
+          "Avg Size": 63486
+        },
+        {
+          "Group Company": "Eastmed",
+          "Fleet No": 26,
+          "OB No": 2,
+          "Avg Size": 59213
+        },
+        {
+          "Group Company": "Gurita Lintas",
+          "Fleet No": 28,
+          "OB No": "",
+          "Avg Size": 56004
+        },
+        {
+          "Group Company": "Pan Ocean",
+          "Fleet No": 23,
+          "OB No": 4,
+          "Avg Size": 61714
+        },
+        {
+          "Group Company": "Kabir Steel",
+          "Fleet No": 27,
+          "OB No": "",
+          "Avg Size": 55929
+        },
+        {
+          "Group Company": "Greig Group",
+          "Fleet No": 27,
+          "OB No": "",
+          "Avg Size": 49013
+        },
+        {
+          "Group Company": "Jinhui Holdings",
+          "Fleet No": 18,
+          "OB No": 8,
+          "Avg Size": 60460
+        },
+        {
+          "Group Company": "Nisshin Shipping",
+          "Fleet No": 25,
+          "OB No": 1,
+          "Avg Size": 63498
+        },
+        {
+          "Group Company": "Genco Shpg & Trading",
+          "Fleet No": 25,
+          "OB No": "",
+          "Avg Size": 60809
+        },
+        {
+          "Group Company": "Meghna Group",
+          "Fleet No": 24,
+          "OB No": "",
+          "Avg Size": 60549
+        },
+        {
+          "Group Company": "Huaxia Bank",
+          "Fleet No": 17,
+          "OB No": 7,
+          "Avg Size": 63514
+        },
+        {
+          "Group Company": "Zhejiang Energy",
+          "Fleet No": 19,
+          "OB No": 4,
+          "Avg Size": 52618
+        },
+        {
+          "Group Company": "Precious Shipping",
+          "Fleet No": 19,
+          "OB No": 4,
+          "Avg Size": 62062
+        },
+        {
+          "Group Company": "Tanto Intim Line",
+          "Fleet No": 23,
+          "OB No": "",
+          "Avg Size": 55544
+        },
+        {
+          "Group Company": "Thoresen Thai",
+          "Fleet No": 23,
+          "OB No": "",
+          "Avg Size": 56230
+        },
+        {
+          "Group Company": "Atlantic Bulk",
+          "Fleet No": 17,
+          "OB No": 6,
+          "Avg Size": 61919
+        },
+        {
+          "Group Company": "K-Line",
+          "Fleet No": 22,
+          "OB No": "",
+          "Avg Size": 58170
+        },
+        {
+          "Group Company": "Spar Shipping A/S",
+          "Fleet No": 21,
+          "OB No": "",
+          "Avg Size": 60013
+        },
+        {
+          "Group Company": "Spring Valley SH",
+          "Fleet No": 20,
+          "OB No": "",
+          "Avg Size": 62467
+        },
+        {
+          "Group Company": "Ciner Group",
+          "Fleet No": 7,
+          "OB No": 12,
+          "Avg Size": 64089
+        },
+        {
+          "Group Company": "Nanjing Jianghai",
+          "Fleet No": 16,
+          "OB No": 3,
+          "Avg Size": 57122
+        },
+        {
+          "Group Company": "Minsheng Bank",
+          "Fleet No": 18,
+          "OB No": "",
+          "Avg Size": 61724
+        },
+        {
+          "Group Company": "Equinox Maritime",
+          "Fleet No": 17,
+          "OB No": "",
+          "Avg Size": 59022
+        },
+        {
+          "Group Company": "VIMC",
+          "Fleet No": 16,
+          "OB No": "",
+          "Avg Size": 54172
+        },
+        {
+          "Group Company": "Yasa Shipping",
+          "Fleet No": 16,
+          "OB No": "",
+          "Avg Size": 60129
+        },
+        {
+          "Group Company": "Lemissoler Group",
+          "Fleet No": 12,
+          "OB No": 4,
+          "Avg Size": 61735
+        },
+        {
+          "Group Company": "Mitsubishi Corp",
+          "Fleet No": 16,
+          "OB No": "",
+          "Avg Size": 60090
+        },
+        {
+          "Group Company": "Westfal-Larsen",
+          "Fleet No": 16,
+          "OB No": "",
+          "Avg Size": 51250
+        },
+        {
+          "Group Company": "Costamare Bulkers",
+          "Fleet No": 16,
+          "OB No": "",
+          "Avg Size": 60066
+        },
+        {
+          "Group Company": "SMT Shipping",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 49064
+        },
+        {
+          "Group Company": "Taiwan Navigation",
+          "Fleet No": 13,
+          "OB No": 2,
+          "Avg Size": 60829
+        },
+        {
+          "Group Company": "Meiji Shipping",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 60504
+        },
+        {
+          "Group Company": "Portline SA",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 62790
+        },
+        {
+          "Group Company": "Amoysailing Maritime",
+          "Fleet No": 11,
+          "OB No": 4,
+          "Avg Size": 60057
+        },
+        {
+          "Group Company": "Shanghai Time Shpg",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 51660
+        },
+        {
+          "Group Company": null,
+          "Fleet No": null,
+          "OB No": null,
+          "Avg Size": null
+        }
+      ]
+    },
+    {
+      "file": "handysize.xlsx",
+      "sheetName": "SIN",
+      "rowCount": 51,
+      "missingColumns": [],
+      "data": [
+        {
+          "Group Company": "Wisdom Marine Group",
+          "Fleet No": 57,
+          "OB No": 13,
+          "Avg Size": 34340
+        },
+        {
+          "Group Company": "Fednav",
+          "Fleet No": 62,
+          "OB No": "",
+          "Avg Size": 35210
+        },
+        {
+          "Group Company": "Pacific Basin Shpg",
+          "Fleet No": 56,
+          "OB No": 4,
+          "Avg Size": 35154
+        },
+        {
+          "Group Company": "Polish Steamship Co",
+          "Fleet No": 43,
+          "OB No": 2,
+          "Avg Size": 36521
+        },
+        {
+          "Group Company": "Nisshin Shipping",
+          "Fleet No": 40,
+          "OB No": "",
+          "Avg Size": 40201
+        },
+        {
+          "Group Company": "Nissen Kaiun",
+          "Fleet No": 25,
+          "OB No": 6,
+          "Avg Size": 40658
+        },
+        {
+          "Group Company": "InterMaritime",
+          "Fleet No": 31,
+          "OB No": "",
+          "Avg Size": 33249
+        },
+        {
+          "Group Company": "Romeo Group",
+          "Fleet No": 27,
+          "OB No": 1,
+          "Avg Size": 27727
+        },
+        {
+          "Group Company": "Navibulgar",
+          "Fleet No": 26,
+          "OB No": 2,
+          "Avg Size": 32469
+        },
+        {
+          "Group Company": "NYK Line",
+          "Fleet No": 23,
+          "OB No": 2,
+          "Avg Size": 30350
+        },
+        {
+          "Group Company": "Canadian Forest Nav.",
+          "Fleet No": 25,
+          "OB No": "",
+          "Avg Size": 31952
+        },
+        {
+          "Group Company": "China COSCO Shipping",
+          "Fleet No": 25,
+          "OB No": "",
+          "Avg Size": 35498
+        },
+        {
+          "Group Company": "Cetus Maritime",
+          "Fleet No": 24,
+          "OB No": "",
+          "Avg Size": 36793
+        },
+        {
+          "Group Company": "John Swire & Sons",
+          "Fleet No": 23,
+          "OB No": "",
+          "Avg Size": 38018
+        },
+        {
+          "Group Company": "Evalend Shipping",
+          "Fleet No": 23,
+          "OB No": "",
+          "Avg Size": 30088
+        },
+        {
+          "Group Company": "Inui Global Logistic",
+          "Fleet No": 22,
+          "OB No": 1,
+          "Avg Size": 36578
+        },
+        {
+          "Group Company": "China Merchants",
+          "Fleet No": 19,
+          "OB No": 2,
+          "Avg Size": 27497
+        },
+        {
+          "Group Company": "Y-Ship",
+          "Fleet No": 21,
+          "OB No": "",
+          "Avg Size": 28099
+        },
+        {
+          "Group Company": "VIMC",
+          "Fleet No": 21,
+          "OB No": "",
+          "Avg Size": 25045
+        },
+        {
+          "Group Company": "Shih Wei Navigation",
+          "Fleet No": 20,
+          "OB No": "",
+          "Avg Size": 32387
+        },
+        {
+          "Group Company": "Dowa Line Co Ltd",
+          "Fleet No": 20,
+          "OB No": "",
+          "Avg Size": 33334
+        },
+        {
+          "Group Company": "Baowu Steel",
+          "Fleet No": 19,
+          "OB No": "",
+          "Avg Size": 21829
+        },
+        {
+          "Group Company": "Anhui Haichuang",
+          "Fleet No": 19,
+          "OB No": "",
+          "Avg Size": 12301
+        },
+        {
+          "Group Company": "Xiehai Group",
+          "Fleet No": 18,
+          "OB No": "",
+          "Avg Size": 17295
+        },
+        {
+          "Group Company": "Oceonix Services Ltd",
+          "Fleet No": 18,
+          "OB No": "",
+          "Avg Size": 40072
+        },
+        {
+          "Group Company": "Viet Thuan Transport",
+          "Fleet No": 17,
+          "OB No": 1,
+          "Avg Size": 18747
+        },
+        {
+          "Group Company": "Blumenthal, Johann",
+          "Fleet No": 18,
+          "OB No": "",
+          "Avg Size": 29109
+        },
+        {
+          "Group Company": "Load Line",
+          "Fleet No": 17,
+          "OB No": "",
+          "Avg Size": 34343
+        },
+        {
+          "Group Company": "Reederei H. Vogemann",
+          "Fleet No": 14,
+          "OB No": 3,
+          "Avg Size": 39940
+        },
+        {
+          "Group Company": "Stealth Maritime",
+          "Fleet No": 17,
+          "OB No": "",
+          "Avg Size": 34385
+        },
+        {
+          "Group Company": "Precious Shipping",
+          "Fleet No": 17,
+          "OB No": "",
+          "Avg Size": 35515
+        },
+        {
+          "Group Company": "Toda Kisen KK",
+          "Fleet No": 17,
+          "OB No": "",
+          "Avg Size": 21964
+        },
+        {
+          "Group Company": "Wuhan Chuangxin",
+          "Fleet No": 9,
+          "OB No": 8,
+          "Avg Size": 15306
+        },
+        {
+          "Group Company": "China Dev Bank (CDB)",
+          "Fleet No": 16,
+          "OB No": "",
+          "Avg Size": 33070
+        },
+        {
+          "Group Company": "CSL Group",
+          "Fleet No": 15,
+          "OB No": 1,
+          "Avg Size": 25912
+        },
+        {
+          "Group Company": "MUR Shipping BV",
+          "Fleet No": 16,
+          "OB No": "",
+          "Avg Size": 37024
+        },
+        {
+          "Group Company": "Hai Phuong Shipping",
+          "Fleet No": 16,
+          "OB No": "",
+          "Avg Size": 30378
+        },
+        {
+          "Group Company": "Tan Binh Co Ltd",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 29583
+        },
+        {
+          "Group Company": "Oldendorff Carriers",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 36953
+        },
+        {
+          "Group Company": "Newport SA",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 34663
+        },
+        {
+          "Group Company": "Roxette Martm",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 31123
+        },
+        {
+          "Group Company": "YZJ Maritime",
+          "Fleet No": "",
+          "OB No": 14,
+          "Avg Size": 39885
+        },
+        {
+          "Group Company": "Ciner Group",
+          "Fleet No": 12,
+          "OB No": 2,
+          "Avg Size": 37024
+        },
+        {
+          "Group Company": "Pangaea Logistics",
+          "Fleet No": 14,
+          "OB No": "",
+          "Avg Size": 38659
+        },
+        {
+          "Group Company": "New Spirit Line",
+          "Fleet No": 14,
+          "OB No": "",
+          "Avg Size": 40482
+        },
+        {
+          "Group Company": "Grace Ocean",
+          "Fleet No": 14,
+          "OB No": "",
+          "Avg Size": 40255
+        },
+        {
+          "Group Company": "FGM Chartering",
+          "Fleet No": 13,
+          "OB No": 1,
+          "Avg Size": 35155
+        },
+        {
+          "Group Company": "Manta Denizcilik",
+          "Fleet No": 14,
+          "OB No": "",
+          "Avg Size": 35047
+        },
+        {
+          "Group Company": "Abo Shoten K.K.",
+          "Fleet No": 10,
+          "OB No": 3,
+          "Avg Size": 37876
+        },
+        {
+          "Group Company": "Sincere Industrial",
+          "Fleet No": 13,
+          "OB No": "",
+          "Avg Size": 34809
+        },
+        {
+          "Group Company": null,
+          "Fleet No": null,
+          "OB No": null,
+          "Avg Size": null
+        }
+      ]
+    },
+    {
+      "file": "panamax.xlsx",
+      "sheetName": "SIN",
+      "rowCount": 51,
+      "missingColumns": [],
+      "data": [
+        {
+          "Group Company": "China COSCO Shipping",
+          "Fleet No": 40,
+          "OB No": 58,
+          "Avg Size": 81092
+        },
+        {
+          "Group Company": "CITIC Group",
+          "Fleet No": 27,
+          "OB No": 32,
+          "Avg Size": 81253
+        },
+        {
+          "Group Company": "Star Bulk Carriers",
+          "Fleet No": 44,
+          "OB No": 8,
+          "Avg Size": 83841
+        },
+        {
+          "Group Company": "NYK Line",
+          "Fleet No": 49,
+          "OB No": "",
+          "Avg Size": 87754
+        },
+        {
+          "Group Company": "Safe Bulkers",
+          "Fleet No": 36,
+          "OB No": 8,
+          "Avg Size": 84038
+        },
+        {
+          "Group Company": "Dynacom",
+          "Fleet No": 27,
+          "OB No": 13,
+          "Avg Size": 81515
+        },
+        {
+          "Group Company": "Wisdom Marine Group",
+          "Fleet No": 35,
+          "OB No": 2,
+          "Avg Size": 82353
+        },
+        {
+          "Group Company": "Mitsui & Co",
+          "Fleet No": 10,
+          "OB No": 26,
+          "Avg Size": 82356
+        },
+        {
+          "Group Company": "K-Line",
+          "Fleet No": 32,
+          "OB No": 3,
+          "Avg Size": 86694
+        },
+        {
+          "Group Company": "Orix Corporation",
+          "Fleet No": 32,
+          "OB No": 3,
+          "Avg Size": 83236
+        },
+        {
+          "Group Company": "China Dev Bank (CDB)",
+          "Fleet No": 35,
+          "OB No": "",
+          "Avg Size": 81629
+        },
+        {
+          "Group Company": "Laskaridis Shipping",
+          "Fleet No": 27,
+          "OB No": 5,
+          "Avg Size": 82240
+        },
+        {
+          "Group Company": "Mitsui OSK Lines",
+          "Fleet No": 24,
+          "OB No": 7,
+          "Avg Size": 82766
+        },
+        {
+          "Group Company": "Oldendorff Carriers",
+          "Fleet No": 26,
+          "OB No": 5,
+          "Avg Size": 84818
+        },
+        {
+          "Group Company": "CMB",
+          "Fleet No": 30,
+          "OB No": "",
+          "Avg Size": 81831
+        },
+        {
+          "Group Company": "Xiamen ITG",
+          "Fleet No": 28,
+          "OB No": "",
+          "Avg Size": 77652
+        },
+        {
+          "Group Company": "China Everbright Grp",
+          "Fleet No": 12,
+          "OB No": 15,
+          "Avg Size": 82976
+        },
+        {
+          "Group Company": "Guohang Ocean",
+          "Fleet No": 15,
+          "OB No": 10,
+          "Avg Size": 82095
+        },
+        {
+          "Group Company": "Nissen Kaiun",
+          "Fleet No": 25,
+          "OB No": "",
+          "Avg Size": 82831
+        },
+        {
+          "Group Company": "Chartworld Shipping",
+          "Fleet No": 23,
+          "OB No": "",
+          "Avg Size": 83169
+        },
+        {
+          "Group Company": "Golden Union",
+          "Fleet No": 21,
+          "OB No": "",
+          "Avg Size": 82293
+        },
+        {
+          "Group Company": "Yamamaru Kisen",
+          "Fleet No": 21,
+          "OB No": "",
+          "Avg Size": 83580
+        },
+        {
+          "Group Company": "Haichang Industry",
+          "Fleet No": 20,
+          "OB No": "",
+          "Avg Size": 84129
+        },
+        {
+          "Group Company": "ICBC",
+          "Fleet No": 8,
+          "OB No": 11,
+          "Avg Size": 84109
+        },
+        {
+          "Group Company": "Minsheng Bank",
+          "Fleet No": 14,
+          "OB No": 5,
+          "Avg Size": 78779
+        },
+        {
+          "Group Company": "Efnav",
+          "Fleet No": 13,
+          "OB No": 6,
+          "Avg Size": 81377
+        },
+        {
+          "Group Company": "Shandong Marine",
+          "Fleet No": 19,
+          "OB No": "",
+          "Avg Size": 81920
+        },
+        {
+          "Group Company": "Dia Yuan Intl Shpg",
+          "Fleet No": 18,
+          "OB No": "",
+          "Avg Size": 79168
+        },
+        {
+          "Group Company": "Tsuneishi Group",
+          "Fleet No": 18,
+          "OB No": "",
+          "Avg Size": 83193
+        },
+        {
+          "Group Company": "Angelakos Hellas SA",
+          "Fleet No": 14,
+          "OB No": 4,
+          "Avg Size": 81950
+        },
+        {
+          "Group Company": "Nisshin Shipping",
+          "Fleet No": 18,
+          "OB No": "",
+          "Avg Size": 82203
+        },
+        {
+          "Group Company": "Iolcos Hellenic",
+          "Fleet No": 18,
+          "OB No": "",
+          "Avg Size": 82456
+        },
+        {
+          "Group Company": "Alimia Group",
+          "Fleet No": 13,
+          "OB No": 5,
+          "Avg Size": 82086
+        },
+        {
+          "Group Company": "Guangdong Energy Grp",
+          "Fleet No": 15,
+          "OB No": 2,
+          "Avg Size": 78433
+        },
+        {
+          "Group Company": "Modion Maritime SA",
+          "Fleet No": 17,
+          "OB No": "",
+          "Avg Size": 83276
+        },
+        {
+          "Group Company": "W Marine Inc",
+          "Fleet No": 15,
+          "OB No": 2,
+          "Avg Size": 86020
+        },
+        {
+          "Group Company": "Diana Shipping",
+          "Fleet No": 15,
+          "OB No": 2,
+          "Avg Size": 83237
+        },
+        {
+          "Group Company": "Fortune Ocean Shpg",
+          "Fleet No": 12,
+          "OB No": 4,
+          "Avg Size": 82570
+        },
+        {
+          "Group Company": "Foremost Maritime",
+          "Fleet No": 12,
+          "OB No": 4,
+          "Avg Size": 84343
+        },
+        {
+          "Group Company": "Centrofin Management",
+          "Fleet No": 8,
+          "OB No": 8,
+          "Avg Size": 81182
+        },
+        {
+          "Group Company": "CHN Energy",
+          "Fleet No": 16,
+          "OB No": "",
+          "Avg Size": 76866
+        },
+        {
+          "Group Company": "Grace Ocean",
+          "Fleet No": 16,
+          "OB No": "",
+          "Avg Size": 81928
+        },
+        {
+          "Group Company": "China Merchants Bank",
+          "Fleet No": 9,
+          "OB No": 6,
+          "Avg Size": 82607
+        },
+        {
+          "Group Company": "Pavimar SA",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 79145
+        },
+        {
+          "Group Company": "National Navigation",
+          "Fleet No": 11,
+          "OB No": 4,
+          "Avg Size": 78592
+        },
+        {
+          "Group Company": "Eastmed",
+          "Fleet No": 12,
+          "OB No": 3,
+          "Avg Size": 79894
+        },
+        {
+          "Group Company": "Marmaras Navigation",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 88308
+        },
+        {
+          "Group Company": "Navios Holdings",
+          "Fleet No": 15,
+          "OB No": "",
+          "Avg Size": 81662
+        },
+        {
+          "Group Company": "Dryships",
+          "Fleet No": 14,
+          "OB No": "",
+          "Avg Size": 79673
+        },
+        {
+          "Group Company": "Doun Kisen",
+          "Fleet No": 8,
+          "OB No": 6,
+          "Avg Size": 81348
+        },
+        {
+          "Group Company": null,
+          "Fleet No": null,
+          "OB No": null,
+          "Avg Size": null
+        }
+      ]
+    }
+  ]
+}
